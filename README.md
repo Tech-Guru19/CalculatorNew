@@ -1,19 +1,21 @@
-# 🧮 Calculator — New Edition
+# Calculator - New Edition
 
-A modern calculator built with HTML, CSS, and JavaScript. Basic arithmetic with a clean interface.
+## Overview
 
-## 🧰 Tech Stack
+A modern calculator built with HTML, CSS, and JavaScript, providing basic arithmetic operations in a clean interface.
 
-`HTML5` `CSS3` `JavaScript`
+## Technology Stack
 
-## 🚀 Getting Started
+HTML5, CSS3, JavaScript
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/CalculatorNew.git
 cd CalculatorNew
-# open index.html in your browser (or npm install && npm run dev for React/Node projects)
+# Open index.html in your browser, or run npm install && npm run dev for React and Node projects
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
